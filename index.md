@@ -16,4 +16,4 @@ And this is a separate paragraph.
 
 Also his website - [Tirimid]
 
-<img src="q2vmown3mhec1.png" width="200" height="200" />
+<img src="q2vmown3mhec1.png" width="350" height="350" />
