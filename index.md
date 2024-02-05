@@ -10,4 +10,8 @@ And this is a separate paragraph.
 * List item 2
 * List item 3
 
+[Tirimid]: https://tirimid.net/
+
 [Trimid helped me out with this, check him out if you please (he's good)](https://github.com/tirimid)
+
+Also his website - [Tirimid]
