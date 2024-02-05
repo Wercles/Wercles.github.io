@@ -16,5 +16,4 @@ And this is a separate paragraph.
 
 Also his website - [Tirimid]
 
-![](q2vmown3mhec1.png)
-
+<img src="q2vmown3mhec1.png" width="200" height="200" />
