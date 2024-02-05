@@ -1,5 +1,11 @@
 # Wercles
 
+## Learning C++ Blog
+
+1. [2024-02-05](cpp-blog/article-2024-02-05.md)
+
+## Site
+
 Bunch of text on its own, with some
 extra things maybe *italics* or even
 **bolding**.
