@@ -1,3 +1,8 @@
+---
+layout: default
+title: Main Page
+---
+
 # Wercles
 
 ## Learning C++ Blog
