@@ -9,6 +9,10 @@ title: Main Page
 
 1. [2024-02-05](cpp-blog/article-2024-02-05.md)
 
+## Arts
+
+1. [cat isaac drawing](art-blog/art.md)
+
 ## Site
 
 Bunch of text on its own, with some
@@ -27,4 +31,4 @@ And this is a separate paragraph.
 
 Also his website - [Tirimid]
 
-<img src="q2vmown3mhec1.png" width="350" height="350" />
+<img src="/images/q2vmown3mhec1.png" width="350" height="350" />
