@@ -1,14 +1,1 @@
-remote_theme: tocttou/hacker-blog
-
-title: hgf
-description: jhgf
-author:
-  name: gfd
-  email: gfd
-  url: https://wercles.github.io
-
-baseurl: /
-
-paginate: 3
-owner: jhg
-year: 123
+remote_theme: streetturtle/jekyll-clean-dark
