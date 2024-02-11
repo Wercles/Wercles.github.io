@@ -9,9 +9,13 @@ title: Main Page
 
 1. [2024-02-05](cpp-blog/article-2024-02-05.md)
 
-## Arts
+## Art Blog
 
 1. [cat isaac drawing](art-blog/art.md)
+
+## Python Blog
+
+1. [brainfuck compiler](python-blog/brainfuck_compiler.md)
 
 ## Site
 

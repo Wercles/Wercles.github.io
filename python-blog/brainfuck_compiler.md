@@ -1,0 +1,18 @@
+## 2024-02-05
+
+First c++ code
+
+:thumbs_up:
+
+```c++
+#include<iostream> //basically lets you print (input, output stream)  
+int main(){ //int is short for integer. because it returns 0 which is an integer, it has to be written next to main.  
+	std::cout << "hello world\n"; //std is short for standart library, cout is short for character out  
+	return 0; //0 signifies that nothing went wrong, if anything goes wrong in the program, the output will not be 0  
+}
+  
+//cd [filepath]  
+//dir  
+//g++ -std=c++20 -pedantic -o new new.cc  
+// .\ or start  
+```
