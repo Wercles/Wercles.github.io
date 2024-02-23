@@ -7,7 +7,8 @@ title: Main Page
 
 ## Learning C++ Blog
 
-1. [2024-02-05](cpp-blog/article-2024-02-05.md)
+1. [05-02-2024](cpp-blog/article-05-02-2024.md)
+2. [23-02-2024](cpp-blog/article-23-02-2024.md)
 
 ## Art Blog
 
