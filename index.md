@@ -13,6 +13,8 @@ title: Main Page
 ## Art Blog
 
 1. [cat isaac drawing](art-blog/art.md)
+2. [Sunlex](art-blog/sunlex_art.md)
+
 
 ## Python Blog
 

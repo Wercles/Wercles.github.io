@@ -1,3 +1,4 @@
+cd C:\Users\black\OneDrive\Desktop\Webdev\Wercles.github.io
 git status
 git add .
 check again 
