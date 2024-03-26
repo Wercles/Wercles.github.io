@@ -19,6 +19,8 @@ title: Main Page
 ## Python Blog
 
 1. [brainfuck compiler](python-blog/brainfuck_compiler.md)
+2. [5 letter slot](python-blog/5_letter_slot.md)
+
 
 ## Site
 
