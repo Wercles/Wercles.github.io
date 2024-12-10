@@ -24,9 +24,7 @@ title: Main Page
 
 ## Site
 
-Bunch of text on its own, with some
-extra things maybe *italics* or even
-**bolding**.
+Doing python and C++ work for money. If you're interested in a commission, DM. The payment will be discussed depending on the work.
 
 And this is a separate paragraph.
 
