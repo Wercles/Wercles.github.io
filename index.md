@@ -20,13 +20,14 @@ title: Main Page
 
 1. [brainfuck compiler](python-blog/brainfuck_compiler.md)
 2. [5 letter slot](python-blog/5_letter_slot.md)
+3. [3n+1](python-blog/3n+1.md)
 
 
 ## Site
 
 Doing python and C++ work for money. If you're interested in a commission, DM. The payment will be discussed depending on the work.
 
-And this is a separate paragraph.
+<img src="/images/q2vmown3mhec1.png" width="350" height="350" />
 
 * List item 1
 * List item 2
@@ -38,4 +39,3 @@ And this is a separate paragraph.
 
 Also his website - [Tirimid]
 
-<img src="/images/q2vmown3mhec1.png" width="350" height="350" />
