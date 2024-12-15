@@ -27,7 +27,7 @@ title: Main Page
 
 Doing python and C++ work for money. If you're interested in a commission, DM. The payment will be discussed depending on the work.
 
-<img src="/images/q2vmown3mhec1.png" width="350" height="350" />
+<img src="/images/maze.png" width="350" height="350" />
 
 * List item 1
 * List item 2
