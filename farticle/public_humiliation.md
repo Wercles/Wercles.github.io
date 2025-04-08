@@ -20,10 +20,10 @@ So back in the 13th century England, this early form of the ducking stool was a 
 
 See, the thing about the cucking chair was that it was used for anything between just being a scold and **witchcraft**, an offence which I'm sure most of you know by now could be punishable by death. For those who couldn't catch up by now, this punishment was also prominently used on woman. 
 
-"So, what did Alfred's wife do this time?"
-"Oh I don't know, I'm just here to scream shame. For all I know she could've told him to stop coming home smelling like crack or she might be opening a portal to a demonic dimension far beyond our comprehension"
-"Eh, well, either way we get Alfred to our crack party tomorrow"
-"yeah totally! SHAME, SHAME"
+>"So, what did Alfred's wife do this time?"
+>"Oh I don't know, I'm just here to scream shame. For all I know she could've told him to stop coming home smelling like crack or she might be opening a portal to a demonic dimension far beyond our comprehension"
+>"Eh, well, either way we get Alfred to our crack party tomorrow"
+>"yeah totally! SHAME, SHAME"
 
 Anyway enough of the cucking stool, its time for the ducking stool. The ducking stool was more prominently used in the 17th to early 19th and was way more brutal compared to the cucking stool. The ducking stool involved the person being submerged underwater for a few seconds on a chair contraption repeatedly until the overseer deemed it to be enough which whoop-de-doo resulted in a few deaths, a shocker I know.
 
