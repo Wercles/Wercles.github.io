@@ -22,6 +22,9 @@ title: Main Page
 2. [5 letter slot](python-blog/5_letter_slot.md)
 3. [3n+1](python-blog/3n+1.md)
 
+## things I find interesting
+1. [public humiliation](farticle/public_humiliation.md)
+
 
 ## Site
 
