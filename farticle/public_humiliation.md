@@ -34,6 +34,6 @@ An example of this was in 1731 when a woman in Nottingham died after getting the
 
 Okay to wrap things up, I'll give you guys a story that unites both the ducking and the cucking enthusiasts, a story starting with the name of "Sarah Leeke". In 1817, Sarah was sentenced to be punished by the ducking chair for being a common scold, the second worst thing you can be in the 19th century as a woman right behind being a witch. Anyway so the people gathered, Sarah got strapped to her chair and... well, not much happened because the waters that day happened to be lower than usual. So the inventors and visionaries got together, and decided to just parade her around the town instead, turning this ducking party to a cucking party.
 
-Anyway I believe these two rapscallions get a 6/10 and 4/10 respectively in terms of funniness, the ducking chair a little less because it actually killed some people which isn't that funny. in terms of effectiveness however the ducking stool wins with a resounding 10/10 while the cucking stool gets a still high 6/10.
+Anyway I believe these two rapscallions get a 6/10 and 7/10 respectively in the funny scale, the ducking chair gets a little lesser than I would've liked since it did kill people, however it does kinda remind me of that one video of a [husband dunking his wife in a lake on a seesaw](https://www.youtube.com/watch?v=5YKXvihvXr4). in terms of effectiveness the ducking stool wins again with a resounding 10/10 while the cucking stool gets a still high 6/10.
 
  

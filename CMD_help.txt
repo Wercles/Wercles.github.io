@@ -5,4 +5,4 @@ check again
 git commit -m "test"
 git push
 Username for 'https://github.com': wercles
-Password for 'https://1#qeADzc@github.com': github token
+Password for 'https://github.com': github token
