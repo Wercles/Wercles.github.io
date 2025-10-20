@@ -25,6 +25,10 @@ title: Main Page
 ## things I find interesting
 1. [public humiliation](farticle/public_humiliation.md)
 
+##Comics
+1. [Pissed off](Comics/Pissed.md)
+2. [Hand]()
+3. [News]()
 
 ## Site
 
