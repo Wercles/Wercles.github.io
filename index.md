@@ -29,6 +29,7 @@ title: Main Page
 1. [Pissed off](Comics/Pissed.md)
 2. [Hand](Comics/Hand.md)
 3. [News](Comics/News.md)
+4. [Bleeh!](comics/Bleeh.md)
 
 ## Site
 
