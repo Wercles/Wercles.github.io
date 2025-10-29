@@ -1,6 +1,6 @@
 ## Bleeh!
 
-<img src="/Comics/Comic images/Bleeh.png" width="640" height="420" />
+<img src="/Comics/Comic images/Bleeh.png" width="688" height="332" />
 
 
 
