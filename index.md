@@ -18,18 +18,21 @@ title: Main Page
 
 ## Python Blog
 
-1. [brainfuck compiler](python-blog/brainfuck_compiler.md)
+1. [Brainfuck compiler](python-blog/brainfuck_compiler.md)
 2. [5 letter slot](python-blog/5_letter_slot.md)
 3. [3n+1](python-blog/3n+1.md)
 
 ## things I find interesting
-1. [public humiliation](farticle/public_humiliation.md)
+1. [Public humiliation](farticle/public_humiliation.md)
+2. [Mahjong](farticle/Mahjong.md)
+3. [Problems & paper airplanes](farticle/Problems_&_paper_airplanes.md)
 
 ## Comics
 1. [Pissed off](Comics/Pissed.md)
 2. [Hand](Comics/Hand.md)
 3. [News](Comics/News.md)
 4. [Bleeh!](Comics/Bleeh.md)
+5. [Phineas knight](Comics/Phineas_knight.md)
 
 ## Site
 
