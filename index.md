@@ -32,11 +32,14 @@ title: Main Page
 2. [Hand](Comics/Hand.md)
 3. [News](Comics/News.md)
 4. [Bleeh!](Comics/Bleeh.md)
-5. [Phineas knight](Comics/Phineas_knight.md)
+5. [Anubis](Comics/Anubis.md)
+6. [Battleship](Comics/Battleship.md)
+7. [Auto flusher](Comics/Auto_flusher.md)
+8. [Phineas knight](Comics/Phineas_knight.md)
 
 ## Site
 
-Doing python and C++ work for money. If you're interested in a commission, DM. The payment will be discussed depending on the work.
+Silly era
 
 <img src="/images/maze.png" width="350" height="350" />
 
