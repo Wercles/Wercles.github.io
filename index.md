@@ -43,9 +43,7 @@ Silly era
 
 <img src="/images/maze.png" width="350" height="350" />
 
-* List item 1
-* List item 2
-* List item 3
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/lolbit-90477/embed/" frameborder="0" scrolling="no"></iframe>
 
 [Tirimid]: https://tirimid.net/
 
