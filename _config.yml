@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: "BDHU/minimalist@f19d6a6ef015ba93c5aee9ce80339e4959b0ffa7"
 
 logo: /images/fox.png
 
